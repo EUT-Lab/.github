@@ -3,12 +3,17 @@ blank_issues_enabled: false   # disable the "Open a blank issue" button
 contact_links:
   - name: 💬 Start a Discussion
     url: https://github.com/orgs/EUT-Lab/discussions
-    about: Please ask questions, share ideas, or start conversations here.
+    about: Ask questions, share ideas, or start conversations with the community.
 
-  - name: 📄 Documentation
+  - name: 📘 EUT Core (Foundations)
+    url: https://github.com/EUT-Lab/eut-core
+    about: Read the canonical axioms, definitions, and core structures of EUT.
+
+  - name: 🧾 Zenodo Archive (All DOIs)
+    url: https://zenodo.org/search?q=EUT-Lab
+    about: Browse all archived releases of EUT-Lab with permanent DOIs.
+
+  - name: 📄 Documentation (in progress)
     url: https://EUT-Lab.github.io/eut-docs/
-    about: Check the docs site for usage, guides, and references.
+    about: Central documentation site for all modules (coming soon).
 
-  - name: 🧾 Citation & Papers
-    url: https://doi.org/10.5281/zenodo.17065804
-    about: Cite the EUT Core Foundations DOI in your research.
