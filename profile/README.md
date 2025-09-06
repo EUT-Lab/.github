@@ -3,7 +3,7 @@
   <a href="https://github.com/EUT-Lab/eut-core"><img alt="Core"
     src="https://img.shields.io/badge/core-eut--core-24292e?logo=github"></a>
   <!-- Zenodo (org-level search or later concept DOI) -->
-  <a href="https://zenodo.org/search?q=EUT-Lab"><img alt="Zenodo"
+  <a href="https://zenodo.org/communities/eut-lab"><img alt="Zenodo"
     src="https://img.shields.io/badge/DOIs-Zenodo-9cf?logo=zenodo"></a>
   <!-- License (org-wide convention) -->
   <a href="https://github.com/EUT-Lab/eut-core/blob/main/LICENSE"><img alt="License"
