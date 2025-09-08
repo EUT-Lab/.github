@@ -9,7 +9,7 @@
   <a href="https://github.com/EUT-Lab/eut-core/blob/main/LICENSE"><img alt="License"
     src="https://img.shields.io/badge/license-MIT-green"></a>
   <!-- Docs (when you publish eut-docs to Pages) -->
-  <a href="https://EUT-Lab.github.io/EUT-docs/"><img alt="Docs"
+  <a href="https://EUT-Lab.github.io/eut-docs/"><img alt="Docs"
     src="https://img.shields.io/badge/docs-latest-blue"></a>
   <!-- Discussions (if enabled in org settings) -->
   <a href="https://github.com/orgs/EUT-Lab/discussions"><img alt="Discussions"
