@@ -16,81 +16,180 @@
     src="https://img.shields.io/badge/chat-Discussions-ffc107?logo=github"></a>
 </p>
 
-# 🌌 EUT-Lab — Einstein Unified Theory Ecosystem
+# 🌌 EUT-Lab
 
-Welcome to **EUT-Lab**, an open-science initiative dedicated to the  
-**Einstein Unified Theory (EUT)** and its supporting frameworks.  
+**Extended Unified Theory Laboratory**
 
-EUT reframes physics by treating **harmonic resonance as primary reality**,  
-with spacetime geometry, matter, and biological structure emerging as  
-secondary stable manifestations.  
+From harmony, not particles — **resonance before form**.
 
-We aim to build a **reproducible ecosystem** of theory, software, and papers  
-that connects mathematics, physics, and biology under one harmonic architecture.  
+EUT-Lab is an open research initiative exploring a harmonic-field framework in which geometry, matter, and information emerge from coherent resonance structures.
+
+This organization hosts the theoretical foundations, computational demonstrations, and interdisciplinary explorations of the **Extended Unified Theory (EUT)**.
 
 ---
 
-## 🔹 Core Repositories
+# 🚀 Start Here
 
-- [**eut-core**](https://github.com/EUT-Lab/eut-core)  
-  Canonical axioms, definitions, and formal structures of EUT.
+If you're new to the project:
 
-- [**eut-quantum-geometry-bio**](https://github.com/EUT-Lab/eut-quantum-geometry-bio)  
-  Demonstrations of harmonic geometry in biology  
-  (spatial transcriptomics, connectomics, metabolic reprogramming).
+1️⃣ **eut-core**  
+The canonical theory repository.  
+Contains the main framework structure, axioms, and manuscript scaffolding.
 
-- [**eut-gravwaves-ligo**](https://github.com/EUT-Lab/eut-gravwaves-ligo)  
-  Gravitational-wave pipelines and predictions for LIGO O4/O5.  
+2️⃣ **eut-docs**  
+Documentation hub and reading guide for the EUT ecosystem.
 
-- Future modules: **E8-RMFT**, **Omega**, **TTPP**, **BSD-TTPP**, **AION**.  
+3️⃣ **eut-quantum-geometry-bio**  
+Applied demonstrations exploring harmonic-geometric structures in biological systems.
 
----
-
-## 🚀 Mission
-
-EUT-Lab exists to:  
-- Advance the Einstein Unified Theory through open-science methods.  
-- Develop **cross-disciplinary applications** spanning physics, biology, and mathematics.  
-- Provide **empirical evidence** through reproducible pipelines and datasets.  
-- Enable formal citation and archiving via Zenodo DOIs.  
-- Share knowledge to accelerate discovery, validation, and critique.  
+4️⃣ **lab-journal**  
+Ongoing research notes and development updates.
 
 ---
 
-## 🧭 Roadmap
+# 🧭 What is EUT?
 
-- **Short term (2025):**  
-  - Finalize `eut-core` as the stable foundation.  
-  - Publish initial biology and LIGO demo modules.  
-  - Release reproducible pipelines with Zenodo DOIs.  
+The Extended Unified Theory proposes that physical structure does not arise from fundamental particles or pre-existing spacetime geometry.
 
-- **Medium term (2025–2026):**  
-  - Expand theory modules (Omega, TTPP, BSD-TTPP, AION).  
-  - Integrate EUT with experimental domains (biology + GW astronomy).  
-  - Build `eut-docs` as a unified documentation hub.  
+Instead, **stable resonance patterns within a global harmonic field** generate effective energy distributions that induce geometric structure.
 
-- **Long term:**  
-  - Establish EUT-Lab as a recognized open-science ecosystem.  
-  - Support collaborative research across multiple disciplines.  
+Symbolically:
+
+Φ(H) → (g, ∇)
+
+where
+
+• **H** — harmonic field  
+• **Φ** — geometry-inducing map  
+• **g** — emergent metric  
+• **∇** — emergent connection  
+
+In this view:
+
+✨ geometry emerges from resonance  
+✨ matter fields arise from stable harmonic modes  
+✨ information and thermodynamics emerge from coherence structures
 
 ---
 
-## 🔗 Resources
+# 🧩 Core Repositories
 
-- 📘 [Zenodo DOIs](https://zenodo.org/search?q=EUT-Lab) — archived releases  
-- 🧪 Reproducible code in every repo (`src/`, `tests/`, `notebooks/`, `papers/`)  
-- 📜 Citation metadata (`CITATION.cff`) in each module  
+### 📐 eut-core
+Canonical theory framework.
+
+Contains:
+
+• axiomatic structure  
+• manuscript sources  
+• working elements (WE1–WE8)  
+• tensor formulations  
+• theory scaffolding  
 
 ---
 
-📖 *“From harmony, not particles — resonance first, form second.”*
-<!--
+### 📚 eut-docs
 
-**Here are some ideas to get you started:**
+Documentation and ecosystem navigation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Includes:
+
+• conceptual guides  
+• theory overview  
+• repository map  
+• research references  
+• Zenodo links  
+
+---
+
+### 🧬 eut-quantum-geometry-bio
+
+Exploration of harmonic-geometric structures in biological systems.
+
+Includes:
+
+• network harmonic analysis  
+• computational experiments  
+• Python implementations  
+• supporting manuscripts  
+
+---
+
+### 📓 lab-journal
+
+Research notebook for ongoing work.
+
+Includes:
+
+• development notes  
+• exploratory ideas  
+• intermediate findings  
+• roadmap updates  
+
+---
+
+# 🔬 Research Domains
+
+EUT research currently explores several domains:
+
+• fundamental physics  
+• quantum geometry  
+• cosmology  
+• gravitational waves  
+• biological harmonic structures  
+• information and entropy  
+
+Future modules may include:
+
+• E8-RMFT  
+• TTPP  
+• BSD-TTPP  
+• Omega  
+• AION  
+
+---
+
+# 📄 Publications
+
+Research outputs are archived on **Zenodo** to ensure long-term preservation and reproducibility.
+
+Zenodo publications may include:
+
+• theoretical papers  
+• datasets  
+• computational notebooks  
+• supporting materials  
+
+Links are provided in the documentation repository.
+
+---
+
+# 🌱 Project Philosophy
+
+EUT-Lab follows an **open science approach**:
+
+• transparent research development  
+• modular framework design  
+• reproducible computational experiments  
+• interdisciplinary exploration  
+
+The goal is not only to present finished results but also to document the **evolution of the ideas**.
+
+---
+
+# 👤 Author
+
+Jason Mercer  
+Independent researcher
+
+GitHub  
+https://github.com/EUT-Lab
+
+---
+
+# 🧭 Status
+
+This organization is an evolving research laboratory.
+
+Some repositories are experimental or under active development.
+
+Progress happens in phases — structure first, substance next, refinement ongoing.
