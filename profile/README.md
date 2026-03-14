@@ -16,17 +16,16 @@
     src="https://img.shields.io/badge/chat-Discussions-ffc107?logo=github"></a>
 </p>
 
-```mermaid
 flowchart TD
 
-A[Harmonic Field H] --> B[Geometry Map Φ(H)]
-B --> C[Emergent Geometry g,∇]
+A[Harmonic Field H] --> B[Geometry Map Phi(H)]
+B --> C[Emergent Geometry g,nabla]
 
-C --> D1[Matter & Couplings]
+C --> D1[Matter and Couplings]
 C --> D2[Cosmology]
-C --> D3[Information & Entropy]
+C --> D3[Information and Entropy]
 
-D1 --> WE[Working Elements WE1–WE8]
+D1 --> WE[Working Elements WE1 to WE8]
 D2 --> WE
 D3 --> WE
 
@@ -35,7 +34,7 @@ WE --> WE2[WE2 Shear Lensing]
 WE --> WE3[WE3 GW Polarization Mixing]
 WE --> WE4[WE4 Horizon Entropy]
 WE --> WE5[WE5 Cosmology]
-WE --> WE6[WE6 Spectrum & Couplings]
+WE --> WE6[WE6 Spectrum and Couplings]
 WE --> WE7[WE7 Holographic Balance]
 WE --> WE8[WE8 Entanglement Flow]
 
@@ -48,7 +47,7 @@ WE6 --> SIM
 WE7 --> SIM
 WE8 --> SIM
 
-SIM --> APP[Applications & Experiments]
+SIM --> APP[Applications and Experiments]
 
 # 🌌 EUT-Lab
 
